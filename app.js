@@ -15,7 +15,7 @@ const userSchema = {
   name : String,
   companyName : String,
   email: String,
-  telephone: Number,
+  Telephone: Number,
   password: String
 };
 
